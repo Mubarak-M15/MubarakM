@@ -1,4 +1,4 @@
-[![MasterHead] (https://cdn.pixabay.com/photo/2020/05/25/08/54/banner-5217683_960_720.jpg)]
+
 <h1 align="center">Hi 👋, I'm Mubarak Mohammed</h1>
 <h3 align="center">An experienced professional working as an IT Consultant for one fo the Big4 Consulting firm and currently working on transitioning my career in Cybersecurity and Cloud Technologies</h3>
 <img align=“right” alt=“Hacking” width=“400” src=“[https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif](https://i0.wp.com/learnyourskills.com/wp-content/uploads/2023/09/best-programming-languages-for-cybersecurity.jpg?fit=750%2C350&ssl=1)”>
