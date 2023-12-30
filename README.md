@@ -1,4 +1,3 @@
-Hi I am Mubarak
 [![MasterHead] (https://cdn.pixabay.com/photo/2020/05/25/08/54/banner-5217683_960_720.jpg)]
 <h1 align="center">Hi 👋, I'm Mubarak Mohammed</h1>
 <h3 align="center">An experienced professional working as an IT Consultant for one fo the Big4 Consulting firm and currently working on transitioning my career in Cybersecurity and Cloud Technologies</h3>
